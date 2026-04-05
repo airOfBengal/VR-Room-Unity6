@@ -1,5 +1,6 @@
 ﻿<Solution>
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj" />
   <Project Path="Unity.InputSystem.RebindingUI.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.csproj" />
@@ -16,5 +17,4 @@
   <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj" />
   <Project Path="Unity.InputSystem.Recorder.csproj" />
-  <Project Path="Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj" />
 </Solution>
